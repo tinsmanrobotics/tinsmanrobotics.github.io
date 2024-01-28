@@ -26,7 +26,7 @@ Experience thorough site inspections like never before. Our aerial inspections c
 [**Photogrammetry:**](https://www.tinsmanrobotics.com/posts/photogrammetry/)
 Transform your projects with detailed visual representations. Our photogrammetry services create highly accurate 3D models and maps, enabling precise measurements and analysis for a wide range of applications, from construction planning to land management.
 
-[**Topographical Surveys:**](https://www.tinsmanrobotics.com/posts/topographical/)
+[**Topographical Surveys:**](https://www.tinsmanrobotics.com/posts/topographicalgit/)
 Streamline project planning and development with our topographical surveys. We provide you with precise, up-to-date data on land contours and features, empowering you to make informed decisions and optimize your project's design and execution.
 
 **Why Choose Tinsman Robotics**
