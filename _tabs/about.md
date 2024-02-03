@@ -12,7 +12,7 @@ Located in [El Dorado Hills, CA](https://maps.app.goo.gl/uDyJucztPTfkU5J78), Tin
 
 **Our Expertise:** Aerial Photography, Insurance Verification, Site Inspections, Photogrammetry, Topographical Surveys
 
-At Tinsman Robotics, we offer a comprehensive range of services tailored to your specific needs:
+At **Tinsman Robotics**, we offer a comprehensive range of services tailored to your specific needs:
 
 [**Property (Aerial) Photography:**](https://www.tinsmanrobotics.com/posts/aerial-photo/)
 Elevate your property marketing with our stunning aerial photography services. We capture the essence of your properties from unique vantage points, providing potential buyers or renters with breathtaking visuals that make your listings stand out.
