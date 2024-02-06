@@ -1,13 +1,13 @@
 ---
-title: Insurance Verification
+title: Visual Verification
 date: 2024-01-25 12:24:00 -0800
 categories: [Drone Services]
 tags: [Verification,Insurance,Disaster,Defensiable,Proof,Records]
 ---
 
-# INSURANCE VERIFICATION
+# VISUAL VERIFICATION
 
-Ensure accurate insurance assessments and claims with our precise data. Our drone technology delivers comprehensive visuals and data for insurance purposes, making the verification process efficient and reliable.
+Ensure accurate assessments and claims with our precise data. Our drone technology delivers comprehensive visuals and data for insurance or records purposes, making the verification process efficient and reliable.
 
 Our drones will provide detailed high resolution video and images from 360 degrees of the area.  The media provided will be GPS and time data stamped along with supporting documentaion that can be provided to a third party.
 
@@ -16,8 +16,9 @@ Our drones will provide detailed high resolution video and images from 360 degre
 > **Verification flights start at $150/hr**
 
 Aerial Footage can also be used for:
-- Disaster inspections
-- Defensiable Space inspections
+- Insurance Verification
+- Disaster Inspections
+- Defensiable Space Inspections
 - Property Records
 
-`All flights operate under FAA Part 107 SUAS Commercial Drone operations rules and regulations`
+`All flights operate under FAA Part 107 SUAS Commercial Drone operations rules and regulations. And are piloted by licensed, trained, and insured personel`
