@@ -17,11 +17,8 @@ At **Tinsman Robotics**, we offer a comprehensive range of services tailored to 
 [**Property (Aerial) Photography:**](https://www.tinsmanrobotics.com/posts/aerial-photo/)
 Elevate your property marketing with our stunning aerial photography services. We capture the essence of your properties from unique vantage points, providing potential buyers or renters with breathtaking visuals that make your listings stand out.
 
-[**Insurance Verification:**](https://www.tinsmanrobotics.com/posts/insurance-verification/)
-Ensure accurate insurance assessments and claims with our precise data. Our drone technology delivers comprehensive visuals and data for insurance purposes, making the verification process efficient and reliable.
-
-[**Site Inspections:**](https://www.tinsmanrobotics.com/posts/site-inspections/)
-Experience thorough site inspections like never before. Our aerial inspections cover vast areas quickly, ensuring that your projects meet safety and regulatory standards. Get a bird's-eye view of your site, identifying issues and making informed decisions.
+[**Site Inspections & Verifications:**](https://www.tinsmanrobotics.com/posts/inspection-verification/)
+Ensure accurate visual assessments and claims with our precise data. Our drone technology delivers comprehensive visuals and data for insurance purposes, making the verification process efficient and reliable. Our aerial inspections cover vast areas quickly, ensuring that your projects meet safety and regulatory standards. Get a bird's-eye view of your site, identifying issues and making informed decisions.
 
 [**Photogrammetry:**](https://www.tinsmanrobotics.com/posts/photogrammetry/)
 Transform your projects with detailed visual representations. Our photogrammetry services create highly accurate 3D models and maps, enabling precise measurements and analysis for a wide range of applications, from construction planning to land management.
