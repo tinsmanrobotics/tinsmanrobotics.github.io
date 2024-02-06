@@ -18,8 +18,11 @@ Transform your projects with detailed visual representations. Our photogrammetry
 ## High Resolution Map Updates
 ![High Resolution Map Updates](https://media.discordapp.net/attachments/1204528019826409532/1204538634666123324/Orthomoasic1.JPG?ex=65d51905&is=65c2a405&hm=36b95995b498fe6c4c56003e4fbf5ee70f6a86bb46737bd595ef936b5dc486ae&=&format=webp&width=425&height=332)
 
+## Costs
 > **2D & 3D Modeling flights start at $250/hr**
 
+
+## Additional Applications
 Aerial Footage can also be used for:
 - Sequential Progress Tracking
 - Building Realtime Mapping Information
@@ -27,4 +30,7 @@ Aerial Footage can also be used for:
 - Digithal Terrain Modeling (DTM)
 - Property Records
 
+## Operations
 `All flights operate under FAA Part 107 SUAS Commercial Drone operations rules and regulations. And are piloted by licensed, trained, and insured personel`
+
+[FAA Part 107 Small Unmanned Aircraft Systems](https://www.ecfr.gov/current/title-14/chapter-I/subchapter-F/part-107)
