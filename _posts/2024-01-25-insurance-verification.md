@@ -15,4 +15,9 @@ Our drones will provide detailed high resolution video and images from 360 degre
 
 > **Verification flights start at $150/hr (depending on location)**
 
-`*All flights operate under FAA Part 107 SUAS Commercial Drone operations rules and regulations.*`
+Aerial Footage can also be used for:
+- Disaster inspections
+- Defensiable Space inspections
+- Property Records
+
+`All flights operate under FAA Part 107 SUAS Commercial Drone operations rules and regulations`
