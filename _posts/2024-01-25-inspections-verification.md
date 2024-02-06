@@ -2,7 +2,7 @@
 title: Visual Verification
 date: 2024-01-25 12:24:00 -0800
 categories: [Drone Services]
-tags: [Verification,Insurance,Disaster,Defensiable,Proof,Records]
+tags: [Verification,Insurance,Disaster,Defensible,Proof,Records]
 ---
 
 # VISUAL VERIFICATION
@@ -20,7 +20,7 @@ Our drones will provide detailed high resolution video and images from 360 degre
 Aerial Footage can also be used for:
 - Insurance Verification
 - Disaster Inspections
-- Defensiable Space Inspections
+- Defensible Space Inspections
 - Property Records
 
 ## Operations
